@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b1",
+    "slug": "indoor-plant-care-guide-for-beginners",
+    "title": "Indoor Plant Care Guide for Beginners",
+    "excerpt": "New to plant parenthood? Here is everything you need to know about light, water, and soil for your first indoor plants.",
+    "content": "Starting your journey with indoor plants can be both exciting and overwhelming. The key to success is understanding that every plant is different, but they all share three basic needs: light, water, and the right environment.\n\n### 1. Light Matters\nMost indoor plants prefer bright, indirect light. This means a spot near a window where they can see the sky but aren't hit by direct sun rays which can burn their leaves.\n\n### 2. The Watering Goldilocks Rule\nNot too much, not too little. The most common cause of plant death is overwatering. Always check the top inch of soil; if it's dry, it's time to water.\n\n### 3. Humidity and Air\nIndoor air can be dry, especially in winter. Grouping plants together or using a pebble tray can help increase local humidity.",
+    "category": "Care Guides",
+    "author": "Admin Sarah",
+    "date": "2024-03-20T14:00:00Z",
+    "readTime": "5 min",
+    "image": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?q=80&w=1000"
+  },
+  {
+    "id": "b2",
+    "slug": "top-5-air-purifying-plants",
+    "title": "Top 5 Air-Purifying Plants for Your Bedroom",
+    "excerpt": "Breathe easier with these natural air filters that thrive in low light and help you sleep better.",
+    "content": "NASA's Clean Air Study found that several common indoor plants are effective at filtering harmful toxins from the air. Here are our top picks for your bedroom:\n\n1. **Snake Plant**: Great at converting CO2 into oxygen at night.\n2. **Spider Plant**: Removes formaldehyde and xylene.\n3. **Peace Lily**: Known for absorbing mold spores and filtering indoor gases.\n4. **Aloe Vera**: Not just for burns, it also filters out benzene.\n5. **Golden Pothos**: Extremely hardy and great at removing carbon monoxide.",
+    "category": "Health & Wellness",
+    "author": "John Doe",
+    "date": "2024-04-05T09:30:00Z",
+    "readTime": "4 min",
+    "image": "https://images.unsplash.com/photo-1520412099521-638152150364?q=80&w=1000"
+  },
+  {
+    "id": "b3",
+    "slug": "herb-gardening-on-a-sunny-windowsill",
+    "title": "Herb Gardening on a Sunny Windowsill",
+    "excerpt": "Fresh herbs at your fingertips! Learn how to grow basil, mint, and rosemary right in your kitchen.",
+    "content": "You don't need a backyard to grow your own food. A sunny windowsill is the perfect place for a mini herb garden.\n\n### Choosing Your Herbs\nBasil, mint, chives, and parsley are excellent for beginners. They grow quickly and are used frequently in cooking.\n\n### Maintenance Tips\n- **Sunlight**: Herbs need at least 6 hours of sun daily.\n- **Drainage**: Ensure your pots have holes to prevent root rot.\n- **Harvesting**: Regular trimming encourages bushier growth and more leaves.",
+    "category": "Kitchen Gardening",
+    "author": "Manager Mike",
+    "date": "2024-04-12T11:00:00Z",
+    "readTime": "6 min",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=1000"
+  },
+  {
+    "id": "b4",
+    "slug": "how-to-diagnose-yellowing-leaves",
+    "title": "Why Are My Plant Leaves Turning Yellow?",
+    "excerpt": "Yellow leaves are a cry for help. We break down the 4 most common reasons and how to fix them.",
+    "content": "Finding yellow leaves on your favorite plant can be stressful. Before you panic, let's look at the possible causes:\n\n1. **Overwatering**: The #1 cause. Check for mushy stems or soggy soil.\n2. **Underwatering**: If the leaves are crispy and yellow, it needs a drink.\n3. **Nutrient Deficiency**: Often a lack of nitrogen. Consider a liquid fertilizer.\n4. **Light Issues**: Too much or too little light can both cause discoloration.",
+    "category": "Plant Health",
+    "author": "Admin Sarah",
+    "date": "2024-04-18T16:20:00Z",
+    "readTime": "7 min",
+    "image": "https://images.unsplash.com/photo-1533038590840-1cde6b66b721?q=80&w=1000"
+  },
+  {
+    "id": "b5",
+    "slug": "creating-a-lush-tropical-oasis-at-home",
+    "title": "Creating a Lush Tropical Oasis at Home",
+    "excerpt": "Transform your living space with large-leafed plants and layered textures for that jungle vibe.",
+    "content": "The 'urban jungle' trend is more than just aesthetics; it's about creating a calming, green environment. To get the look:\n\n- **Layer Your Plants**: Use plant stands, hanging baskets, and large floor pots.\n- **Focus on Foliage**: Mix different leaf shapes and colors (think Monstera, Calathea, and Ferns).\n- **Control the Climate**: Many tropicals love humidity. A small humidifier or regular misting goes a long way.",
+    "category": "Decor",
+    "author": "John Doe",
+    "date": "2024-04-25T10:45:00Z",
+    "readTime": "5 min",
+    "image": "https://images.unsplash.com/photo-1597055181300-e3633a207519?q=80&w=1000"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ord-101",
+    "userId": "u1",
+    "items": [
+      { "plantId": "1", "name": "Snake Plant", "price": 25.99, "quantity": 1 },
+      { "plantId": "8", "name": "Golden Pothos", "price": 14.50, "quantity": 2 }
+    ],
+    "total": 54.99,
+    "status": "Delivered",
+    "date": "2024-03-10T15:30:00Z"
+  },
+  {
+    "id": "ord-102",
+    "userId": "u1",
+    "items": [
+      { "plantId": "2", "name": "Monstera Deliciosa", "price": 45.00, "quantity": 1 }
+    ],
+    "total": 45.00,
+    "status": "Shipped",
+    "date": "2024-04-15T12:00:00Z"
+  },
+  {
+    "id": "ord-103",
+    "userId": "u2",
+    "items": [
+      { "plantId": "3", "name": "Fiddle Leaf Fig", "price": 65.00, "quantity": 1 },
+      { "plantId": "10", "name": "Rubber Plant", "price": 38.00, "quantity": 1 }
+    ],
+    "total": 103.00,
+    "status": "Processing",
+    "date": "2024-05-01T09:15:00Z"
+  },
+  {
+    "id": "ord-104",
+    "userId": "u3",
+    "items": [
+      { "plantId": "17", "name": "Basil", "price": 8.50, "quantity": 3 }
+    ],
+    "total": 25.50,
+    "status": "Pending",
+    "date": "2024-05-10T14:45:00Z"
+  },
+  {
+    "id": "ord-105",
+    "userId": "u1",
+    "items": [
+      { "plantId": "5", "name": "Aloe Vera", "price": 12.99, "quantity": 2 },
+      { "plantId": "9", "name": "Jade Plant", "price": 22.00, "quantity": 1 }
+    ],
+    "total": 47.98,
+    "status": "Delivered",
+    "date": "2024-02-20T11:20:00Z"
+  },
+  {
+    "id": "ord-106",
+    "userId": "u2",
+    "items": [
+      { "plantId": "13", "name": "Bird of Paradise", "price": 85.00, "quantity": 1 }
+    ],
+    "total": 85.00,
+    "status": "Delivered",
+    "date": "2024-01-05T10:00:00Z"
+  },
+  {
+    "id": "ord-107",
+    "userId": "u3",
+    "items": [
+      { "plantId": "14", "name": "Calathea Orbifolia", "price": 55.00, "quantity": 1 },
+      { "plantId": "15", "name": "Boston Fern", "price": 24.00, "quantity": 1 }
+    ],
+    "total": 79.00,
+    "status": "Shipped",
+    "date": "2024-04-28T13:30:00Z"
+  },
+  {
+    "id": "ord-108",
+    "userId": "u1",
+    "items": [
+      { "plantId": "18", "name": "Rosemary", "price": 10.00, "quantity": 1 },
+      { "plantId": "19", "name": "Peppermint", "price": 9.00, "quantity": 1 }
+    ],
+    "total": 19.00,
+    "status": "Pending",
+    "date": "2024-05-12T16:00:00Z"
+  }
+]
