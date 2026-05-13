@@ -9,7 +9,7 @@
     "author": "Admin Sarah",
     "date": "2024-03-20T14:00:00Z",
     "readTime": "5 min",
-    "image": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?q=80&w=1000"
+    "image": "https://images.unsplash.com/photo-1463043254199-7a3efd782ad1?q=80&w=1000"
   },
   {
     "id": "b2",
@@ -21,7 +21,7 @@
     "author": "John Doe",
     "date": "2024-04-05T09:30:00Z",
     "readTime": "4 min",
-    "image": "https://images.unsplash.com/photo-1520412099521-638152150364?q=80&w=1000"
+    "image": "https://images.unsplash.com/photo-1460500063983-994d4c27756c?q=80&w=1000"
   },
   {
     "id": "b3",
@@ -33,7 +33,7 @@
     "author": "Manager Mike",
     "date": "2024-04-12T11:00:00Z",
     "readTime": "6 min",
-    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=1000"
+    "image": "https://images.unsplash.com/photo-1487798452839-c748a707a6b2?q=80&w=1000"
   },
   {
     "id": "b4",
@@ -45,7 +45,7 @@
     "author": "Admin Sarah",
     "date": "2024-04-18T16:20:00Z",
     "readTime": "7 min",
-    "image": "https://images.unsplash.com/photo-1533038590840-1cde6b66b721?q=80&w=1000"
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000"
   },
   {
     "id": "b5",
@@ -57,6 +57,6 @@
     "author": "John Doe",
     "date": "2024-04-25T10:45:00Z",
     "readTime": "5 min",
-    "image": "https://images.unsplash.com/photo-1597055181300-e3633a207519?q=80&w=1000"
+    "image": "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?q=80&w=1000"
   }
 ]

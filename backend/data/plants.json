@@ -5,7 +5,9 @@
     "scientificName": "Dracaena trifasciata",
     "category": "Indoor",
     "price": 25.99,
-    "images": ["https://images.unsplash.com/photo-1593482892290-f54927ae1bf6?q=80&w=1000", "https://images.unsplash.com/photo-1599598425947-5202696e7055?q=80&w=1000"],
+    "images": [
+      "https://images.unsplash.com/photo-1459156212016-c812468e2115?q=80&w=1000"
+    ],
     "description": "The Snake Plant is one of the most resilient indoor plants, known for its air-purifying qualities and ability to thrive in low light.",
     "careDifficulty": "Easy",
     "light": "Low to Bright Indirect",
@@ -24,8 +26,10 @@
     "name": "Monstera Deliciosa",
     "scientificName": "Monstera deliciosa",
     "category": "Indoor",
-    "price": 45.00,
-    "images": ["https://images.unsplash.com/photo-1614594975525-e45190c55d0b?q=80&w=1000", "https://images.unsplash.com/photo-1597055181300-e3633a207519?q=80&w=1000"],
+    "price": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=1000"
+    ],
     "description": "Known as the 'Swiss Cheese Plant', the Monstera is famous for its large, heart-shaped leaves with unique natural holes.",
     "careDifficulty": "Medium",
     "light": "Bright Indirect",
@@ -44,8 +48,10 @@
     "name": "Fiddle Leaf Fig",
     "scientificName": "Ficus lyrata",
     "category": "Indoor",
-    "price": 65.00,
-    "images": ["https://images.unsplash.com/photo-1545239351-ef35f43d514b?q=80&w=1000"],
+    "price": 65,
+    "images": [
+      "https://images.unsplash.com/photo-1470058869958-2a77ade41c02?q=80&w=1000"
+    ],
     "description": "A stunning statement plant with large, violin-shaped leaves. It requires consistent care and the right spot to flourish.",
     "careDifficulty": "Hard",
     "light": "Bright Indirect",
@@ -64,8 +70,11 @@
     "name": "Spider Plant",
     "scientificName": "Chlorophytum comosum",
     "category": "Indoor",
-    "price": 18.50,
-    "images": ["https://images.unsplash.com/photo-1572635148818-ef6fd45eb394?q=80&w=1000"],
+    "price": 18.5,
+    "images": [
+      "https://images.unsplash.com/photo-1501004318641-739e828a1751?q=80&w=1000",
+      "https://images.unsplash.com/photo-1592150621744-aca64f48394a?q=80&w=1000"
+    ],
     "description": "Great for beginners, the Spider Plant produces 'babies' on long stems and is very effective at cleaning the air.",
     "careDifficulty": "Easy",
     "light": "Bright Indirect to Semi-shade",
@@ -85,7 +94,9 @@
     "scientificName": "Aloe barbadensis miller",
     "category": "Succulent",
     "price": 12.99,
-    "images": ["https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?q=80&w=1000"],
+    "images": [
+      "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=1000"
+    ],
     "description": "A practical succulent with medicinal properties. The gel inside its leaves is great for soothing burns and skin issues.",
     "careDifficulty": "Easy",
     "light": "Direct Sunlight",
@@ -104,8 +115,10 @@
     "name": "Lavender",
     "scientificName": "Lavandula",
     "category": "Outdoor",
-    "price": 15.00,
-    "images": ["https://images.unsplash.com/photo-1528722828814-77b9b83acf12?q=80&w=1000"],
+    "price": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1520302630591-fd1c66ed11ef?q=80&w=1000"
+    ],
     "description": "Prized for its fragrance and beautiful purple flowers, Lavender attracts pollinators and loves sunny spots.",
     "careDifficulty": "Medium",
     "light": "Full Sun",
@@ -124,8 +137,10 @@
     "name": "Peace Lily",
     "scientificName": "Spathiphyllum",
     "category": "Indoor",
-    "price": 28.00,
-    "images": ["https://images.unsplash.com/photo-1593691509543-c55fb32e7355?q=80&w=1000"],
+    "price": 28,
+    "images": [
+      "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=1000"
+    ],
     "description": "An elegant indoor plant with white spade-like flowers. It signals when it needs water by drooping its leaves.",
     "careDifficulty": "Easy",
     "light": "Low to Medium Indirect",
@@ -144,8 +159,10 @@
     "name": "Golden Pothos",
     "scientificName": "Epipremnum aureum",
     "category": "Indoor",
-    "price": 14.50,
-    "images": ["https://images.unsplash.com/photo-1591954840040-755c91658b00?q=80&w=1000"],
+    "price": 14.5,
+    "images": [
+      "https://images.unsplash.com/photo-1416879598555-220b3017fa78?q=80&w=1000"
+    ],
     "description": "The Golden Pothos is nearly indestructible. Its trailing vines with heart-shaped leaves make it perfect for shelves.",
     "careDifficulty": "Easy",
     "light": "Any light except direct sun",
@@ -164,8 +181,10 @@
     "name": "Jade Plant",
     "scientificName": "Crassula ovata",
     "category": "Succulent",
-    "price": 22.00,
-    "images": ["https://images.unsplash.com/photo-1509423350716-97f9360b4e09?q=80&w=1000"],
+    "price": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1437275537121-331a985b9a89?q=80&w=1000"
+    ],
     "description": "Often called the 'Money Tree', the Jade Plant is a slow-growing succulent that can live for decades with proper care.",
     "careDifficulty": "Easy",
     "light": "Bright Indirect to Direct",
@@ -184,8 +203,10 @@
     "name": "Rubber Plant",
     "scientificName": "Ficus elastica",
     "category": "Indoor",
-    "price": 38.00,
-    "images": ["https://images.unsplash.com/photo-1596439673359-da71032993ad?q=80&w=1000"],
+    "price": 38,
+    "images": [
+      "https://images.unsplash.com/photo-1508603611357-124976735e5a?q=80&w=1000"
+    ],
     "description": "A bold indoor tree with thick, glossy dark green leaves. It adds a sophisticated touch to any modern interior.",
     "careDifficulty": "Medium",
     "light": "Bright Indirect",
@@ -204,8 +225,10 @@
     "name": "ZZ Plant",
     "scientificName": "Zamioculcas zamiifolia",
     "category": "Indoor",
-    "price": 32.00,
-    "images": ["https://images.unsplash.com/photo-1632207691143-643e2a9a9361?q=80&w=1000"],
+    "price": 32,
+    "images": [
+      "https://images.unsplash.com/photo-1463043254199-7a3efd782ad1?q=80&w=1000"
+    ],
     "description": "The ZZ plant is the ultimate low-maintenance plant. It thrives in low light and doesn't mind being forgotten for a while.",
     "careDifficulty": "Easy",
     "light": "Low to Bright Indirect",
@@ -224,8 +247,10 @@
     "name": "String of Pearls",
     "scientificName": "Senecio rowleyanus",
     "category": "Succulent",
-    "price": 20.00,
-    "images": ["https://images.unsplash.com/photo-1614594975525-e45190c55d0b?q=80&w=1000"],
+    "price": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1460500063983-994d4c27756c?q=80&w=1000"
+    ],
     "description": "A unique succulent with round, bead-like leaves that trail down gracefully from hanging baskets.",
     "careDifficulty": "Hard",
     "light": "Bright Indirect",
@@ -244,8 +269,10 @@
     "name": "Bird of Paradise",
     "scientificName": "Strelitzia reginae",
     "category": "Flowering",
-    "price": 85.00,
-    "images": ["https://images.unsplash.com/photo-1550252554-733e839e9951?q=80&w=1000"],
+    "price": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1487798452839-c748a707a6b2?q=80&w=1000"
+    ],
     "description": "A tropical showstopper with large, architectural leaves and spectacular flowers that resemble the head of a crane.",
     "careDifficulty": "Medium",
     "light": "Bright Indirect to Direct",
@@ -264,8 +291,10 @@
     "name": "Calathea Orbifolia",
     "scientificName": "Calathea orbifolia",
     "category": "Rare",
-    "price": 55.00,
-    "images": ["https://images.unsplash.com/photo-1614594975525-e45190c55d0b?q=80&w=1000"],
+    "price": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000"
+    ],
     "description": "Highly sought after for its oversized, round leaves with silver stripes. It requires high humidity to stay beautiful.",
     "careDifficulty": "Hard",
     "light": "Medium Indirect",
@@ -284,8 +313,10 @@
     "name": "Boston Fern",
     "scientificName": "Nephrolepis exaltata",
     "category": "Indoor",
-    "price": 24.00,
-    "images": ["https://images.unsplash.com/photo-1599598425947-5202696e7055?q=80&w=1000"],
+    "price": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?q=80&w=1000"
+    ],
     "description": "Classic and lush, the Boston Fern is perfect for hanging baskets or pedestals. It loves a humid bathroom environment.",
     "careDifficulty": "Medium",
     "light": "Bright Indirect",
@@ -304,8 +335,10 @@
     "name": "Moth Orchid",
     "scientificName": "Phalaenopsis",
     "category": "Flowering",
-    "price": 40.00,
-    "images": ["https://images.unsplash.com/photo-1597055181300-e3633a207519?q=80&w=1000"],
+    "price": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1491147334573-44cbb4602074?q=80&w=1000"
+    ],
     "description": "The Phalaenopsis orchid is known for its long-lasting, elegant blooms. Contrary to belief, they are easy to care for at home.",
     "careDifficulty": "Medium",
     "light": "Medium Indirect",
@@ -324,8 +357,10 @@
     "name": "Basil",
     "scientificName": "Ocimum basilicum",
     "category": "Herb",
-    "price": 8.50,
-    "images": ["https://images.unsplash.com/photo-1618376168114-b52162604888?q=80&w=1000"],
+    "price": 8.5,
+    "images": [
+      "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1000"
+    ],
     "description": "The quintessential culinary herb. Basil is easy to grow on a sunny windowsill and adds fresh flavor to dishes.",
     "careDifficulty": "Easy",
     "light": "Full Sun",
@@ -344,8 +379,10 @@
     "name": "Rosemary",
     "scientificName": "Salvia rosmarinus",
     "category": "Herb",
-    "price": 10.00,
-    "images": ["https://images.unsplash.com/photo-1594900900055-35802bb7275d?q=80&w=1000"],
+    "price": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1464654923414-bba3ec44dcfb?q=80&w=1000"
+    ],
     "description": "A fragrant, woody herb that is drought-tolerant and evergreen. It's as ornamental as it is delicious.",
     "careDifficulty": "Easy",
     "light": "Full Sun",
@@ -364,8 +401,10 @@
     "name": "Peppermint",
     "scientificName": "Mentha × piperita",
     "category": "Herb",
-    "price": 9.00,
-    "images": ["https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?q=80&w=1000"],
+    "price": 9,
+    "images": [
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1000"
+    ],
     "description": "Mint is a vigorous grower that provides fresh leaves for tea and cooking. It's best grown in its own pot.",
     "careDifficulty": "Easy",
     "light": "Partial Shade to Sun",
@@ -384,8 +423,10 @@
     "name": "Venus Flytrap",
     "scientificName": "Dionaea muscipula",
     "category": "Rare",
-    "price": 35.00,
-    "images": ["https://images.unsplash.com/photo-1614594975525-e45190c55d0b?q=80&w=1000"],
+    "price": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1456082902841-3335005c3082?q=80&w=1000"
+    ],
     "description": "A fascinating carnivorous plant that captures insects. It requires specialized care, including distilled water and no fertilizer.",
     "careDifficulty": "Hard",
     "light": "Full Sun",
@@ -404,8 +445,10 @@
     "name": "Swiss Cheese Vine",
     "scientificName": "Monstera adansonii",
     "category": "Indoor",
-    "price": 26.00,
-    "images": ["https://images.unsplash.com/photo-1614594975525-e45190c55d0b?q=80&w=1000"],
+    "price": 26,
+    "images": [
+      "https://images.unsplash.com/photo-1522650057404-7cd3b3bb16b6?q=80&w=1000"
+    ],
     "description": "A smaller, trailing relative of the Monstera Deliciosa, famous for its many natural leaf perforations.",
     "careDifficulty": "Medium",
     "light": "Bright Indirect",

@@ -86,10 +86,19 @@ router.post('/register', (req, res) => {
 // Get Current User
 router.get('/me', authenticateToken, (req, res) => {
   const users = readUsers();
-  const user = users.find(u => u.id === req.user.id);
-  
-  if (!user) return res.status(404).json({ message: 'User not found' });
-  
+  // Firebase UID won't match old JSON ids — fall back to email match
+  const user = users.find(u => u.id === req.user.id || u.email === req.user.email);
+
+  if (!user) {
+    // Return a basic profile from the Firebase token if user not in local DB
+    return res.json({
+      id: req.user.id,
+      name: req.user.name,
+      email: req.user.email,
+      role: req.user.role || 'user',
+    });
+  }
+
   const { password, ...userWithoutPassword } = user;
   res.json(userWithoutPassword);
 });
